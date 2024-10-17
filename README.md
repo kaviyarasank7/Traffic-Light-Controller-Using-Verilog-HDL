@@ -117,7 +117,7 @@ Testbench for Traffic Light Controller
         $monitor("Time: %0t | Reset: %b | Lights: %b (Red-Yellow-Green)", $time, reset, light);
     end
 endmodule
-```
+
 ![Screenshot (18)](https://github.com/user-attachments/assets/28037209-18fe-4e98-9148-bb507061c2e1)
 
 
